@@ -210,7 +210,7 @@ def send_attendee_email(sheet_id):
     SMTP_SERVER = 'mail.b2bgrowthexpo.com'
     SMTP_PORT = 587
     SMTP_USER = 'nagendra@b2bgrowthexpo.com'
-    SMTP_PASSWORD = 'tdA^87%+.3$3'
+    SMTP_PASSWORD = 'D@shwood0404'
     IMAP_SERVER = 'mail.b2bgrowthexpo.com'  # e.g., imap.gmail.com
     TO_EMAILS = ['Nagendra@b2bgrowthhub.com']
 
